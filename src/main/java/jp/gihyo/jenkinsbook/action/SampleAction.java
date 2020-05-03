@@ -52,7 +52,7 @@ public class SampleAction {
             return false;
         }
 
-        return false;
+        return true;
     }
 
     /**
